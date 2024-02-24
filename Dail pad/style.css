@@ -1,0 +1,73 @@
+.h{
+    text-align:center;
+    color: rgb(80, 30, 125);
+}
+
+.dailpad{
+    width:200px;
+    height:300px;
+    margin:auto;
+   border:2px solid purple;
+    background:linear-gradient(rgb(234, 203, 209),rgb(192, 192, 234));
+   display:center;
+   border-radius:10px;
+  
+
+}
+.h2{
+    width:160px;
+    height:13px;
+    margin:10px;
+    padding:10px;
+    align-items:center;
+    font-size: small;
+    border:1px solid black;
+    background-color:rgb(234, 231, 231);
+    border-radius:2px
+    
+}
+
+.row{
+    display:flex;
+    justify-content:center;
+    
+}
+.button{
+    width:19px;
+    height:10px;
+    margin:10px;
+    padding:10px;
+    align-items:center;
+    font-size: small;
+    border:1px solid black;
+    background-color:rgb(236, 249, 236);
+    border-radius:2px
+    
+
+    
+}
+.button:hover{
+background-color:  rgb(230, 205, 252);
+}
+.img{
+    background-color:green;
+}
+.button-1{
+    width:19px;
+    height:10px;
+    margin:10px;
+    padding:10px;
+    align-items:center;
+    font-size: small;
+    border:1px solid black;
+    background-color:rgb(12, 128, 12);
+    border-radius:2px
+}
+.button-1:hover{
+    background-color:rgb(230, 205, 252);
+}
+    
+.row-1{
+        display:flex;
+        justify-content:center;
+    }
